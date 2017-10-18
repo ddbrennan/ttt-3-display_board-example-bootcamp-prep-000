@@ -8,5 +8,3 @@ def display_board
   puts horizontal
   puts vertical
 end
-
-display_board
